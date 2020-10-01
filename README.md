@@ -1,4 +1,4 @@
-# Xapian documentation sprint
+# Xapian documentation sprint.
 
 This is the source for [Xapian's user
 guide](https://getting-started-with-xapian.readthedocs.org/).
