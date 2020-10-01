@@ -22,4 +22,4 @@ but for example to generate an HTML version for C++ use:
 make html LANGUAGE=c++
 ```
 
-The default (when you run just `make html`) is to build for python.
+The default (when you run just `make html`) is to build for Python.
